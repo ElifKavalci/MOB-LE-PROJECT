@@ -1,9 +1,13 @@
 # MOBILE-PROJECT
 🧠 Anksiyete Destekleyici Mobil Uygulama
 
-Bu proje java dili kullanılarak Android studio ortamında gelişirilmiştir.
+Bu proje java dili kullanılarak Android Studio ortamında gelişirilmiştir.
 
 Bu mobil uygulama, anksiyete yaşayan bireylerin zihinsel olarak rahatlamasını, sakinleşmesini ve kısa süreli bir mola verebilmesini amaçlayan bir rahatlama uygulamasıdır. Günümüzde sıkça karşılaşılan stres ve kaygı problemlerine karşı, kullanıcıya güvenli, sade ve yargısız bir dijital alan sunmak hedeflenmiştir.
+
+Uygulama açıldığında kullanıcıyı giriş ve kayıt ekranı karşılar. Üye olmayan kullanıcılar kayıt olabilir, üye olanlar giriş yapabilir. Admin girişi ile uygulamayı kullanan toplam kullanıcı sayısı görüntülenebilir.
+
+Uygulama internet bağlantısı olmadan çalışmaz ve ilk açılışta GPS izni talep eder. Bu izinler, uygulamanın doğru ve güvenli şekilde çalışabilmesi için zorunludur.
 
 Uygulama tek bir ana sayfa üzerinden ilerler ve bu ana sayfada yer alan 6 farklı etkinlik, kullanıcının zihinsel ihtiyacına göre farklı destekler sağlar. Her etkinlikte geri dönme butonu bulunur ve kullanıcıyı yormayan minimal bir arayüz tercih edilmiştir.
 
@@ -16,10 +20,6 @@ Motivasyon etkinliğinde arka planda sakin bir müzik çalar ve ekranda “Ben d
 Çizim ekranı, kullanıcının duygularını özgürce ifade edebilmesi için tasarlanmıştır. Boş bir sayfa üzerinde farklı renk ve boyutlarda kalemler, ayarlanabilir silgi ve tüm ekranı temizleme seçenekleri bulunur. Kullanıcı herhangi bir kural olmadan istediğini çizebilir.
 
 Okuma etkinliği, uzun metinlerin kullanıcıyı yormaması için kısa ve parça parça metinler şeklinde hazırlanmıştır. “İleri” butonu ile her seferinde yeni bir kısa metne geçilir ve metinler tek sayfayı geçmeyecek şekilde düzenlenmiştir.
-
-Uygulama açıldığında kullanıcıyı giriş ve kayıt ekranı karşılar. Üye olmayan kullanıcılar kayıt olabilir, üye olanlar giriş yapabilir. Admin girişi ile uygulamayı kullanan toplam kullanıcı sayısı görüntülenebilir.
-
-Uygulama internet bağlantısı olmadan çalışmaz ve ilk açılışta GPS izni talep eder. Bu izinler, uygulamanın doğru ve güvenli şekilde çalışabilmesi için zorunludur.
 
 Bu proje, anksiyete yaşayan bireylerin günlük hayat içinde kendilerine ayırabilecekleri sakin, destekleyici ve rahatlatıcı bir dijital alan sunmayı amaçlamaktadır.
 
