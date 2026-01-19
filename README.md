@@ -1,6 +1,7 @@
 # MOBILE-PROJECT
 🧠 Anksiyete Destekleyici Mobil Uygulama
-Bu proje java dili kullanılarak ANdroid studio ortamında gelişirilmiştir.
+
+Bu proje java dili kullanılarak Android studio ortamında gelişirilmiştir.
 
 Bu mobil uygulama, anksiyete yaşayan bireylerin zihinsel olarak rahatlamasını, sakinleşmesini ve kısa süreli bir mola verebilmesini amaçlayan bir rahatlama uygulamasıdır. Günümüzde sıkça karşılaşılan stres ve kaygı problemlerine karşı, kullanıcıya güvenli, sade ve yargısız bir dijital alan sunmak hedeflenmiştir.
 
